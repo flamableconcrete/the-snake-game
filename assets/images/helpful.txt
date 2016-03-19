@@ -1,0 +1,46 @@
+numbers.png
+-----------
+num		x	y	width	height
+0		0	0	39		50
+1		39	0	27		50
+2		66	0	43		50
+3		109	0	44		50
+4		153	0	51		50
+5		204	0	45		50
+6		249	0	44		50
+7		293	0	37		50
+8		330	0	36		50
+9		366	0	44		50
+.		413	0	18		50 - took off 3 px from between 9 and .
+
+
+
+buttons.png
+-----------
+button			x	y	width	height
+sound on		0	0	109		104
+right arrow		0	104	109		104
+X				0	208	109		104
+sound off		110	0	109		104
+left arrow		110	106	109		104
+pause (||)		110	210	109		104
+
+
+
+mainMenu.png
+------------
+words			x	y	width	height
+play			112	0	171		48
+highscores		0	54	396		63
+help			118	110	166		56
+
+
+
+pause.png
+---------
+words			x	y	width	height
+resume			0	0	283		54
+quit			0	54	283		54
+
+
+
